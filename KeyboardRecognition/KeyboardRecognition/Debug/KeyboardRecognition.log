@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  dllmain.cpp
+  KeyboardRecognition.cpp
+c:\users\ethan bui\desktop\keyboardrecognition\keyboardrecognition\keyboardrecognition.cpp(8): warning C4273: 'FreeMemory': inconsistent dll linkage
+  c:\users\ethan bui\desktop\keyboardrecognition\keyboardrecognition\keyboardrecognition.h(16): note: see previous definition of 'FreeMemory' (compiling source file KeyboardRecognition.cpp)
+c:\users\ethan bui\desktop\keyboardrecognition\keyboardrecognition\keyboardrecognition.cpp(13): warning C4273: 'ProcessFrame': inconsistent dll linkage
+  c:\users\ethan bui\desktop\keyboardrecognition\keyboardrecognition\keyboardrecognition.h(15): note: see previous definition of 'ProcessFrame' (compiling source file KeyboardRecognition.cpp)
+     Creating library C:\Users\Ethan Bui\Desktop\KeyboardRecognition\Debug\KeyboardRecognition\KeyboardRecognition.lib and object C:\Users\Ethan Bui\Desktop\KeyboardRecognition\Debug\KeyboardRecognition\KeyboardRecognition.exp
+  KeyboardRecognition.vcxproj -> C:\Users\Ethan Bui\Desktop\KeyboardRecognition\Debug\KeyboardRecognition\KeyboardRecognition.dll

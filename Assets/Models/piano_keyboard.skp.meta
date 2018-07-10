@@ -1,0 +1,1408 @@
+fileFormatVersion: 2
+guid: 03f402735fe2ac24581c6e276f9b3f0b
+timeCreated: 1509157958
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e0100006f010000700100007101000072010000730100007401000075010000760100007701000078010000790100007a0100007b0100007c0100007d0100007e0100007f010000800100008101000082010000830100008401000085010000860100008701000088010000890100008a0100008b0100008c0100008d0100008e0100008f010000900100009101000092010000930100009401000095010000960100009701000098010000990100009a0100009b0100009c0100009d0100009e0100009f010000a0010000a1010000a2010000a3010000a4010000a5010000a6010000a7010000a8010000a9010000aa010000ab010000ac010000ad010000ae010000af010000b0010000b1010000b2010000b3010000b4010000b5010000b6010000b7010000b8010000b9010000ba010000bb010000bc010000bd010000be010000bf010000c0010000c1010000c2010000c3010000c4010000c5010000c6010000c7010000c8010000c9010000ca010000cb010000cc010000cd010000ce010000cf010000d0010000d1010000d2010000d3010000d4010000d5010000d6010000d7010000d8010000d9010000da010000db010000dc010000dd010000de010000df010000e0010000e1010000e2010000e3010000e4010000e5010000e6010000e7010000e8010000e9010000ea010000eb010000ec010000ed010000ee010000ef010000f0010000f1010000f2010000f3010000f4010000f5010000f6010000f7010000f8010000f9010000fa010000fb010000fc010000fd010000fe010000ff010000000200000102000002020000030200000402000005020000060200000702000008020000090200000a0200000b0200000c0200000d0200000e0200000f020000100200001102000012020000130200001402000015020000160200001702000018020000190200001a0200001b0200001c0200001d0200001e0200001f020000200200002102000022020000230200002402000025020000260200002702000028020000290200002a0200002b0200002c0200002d0200002e0200002f020000300200003102000032020000330200003402000035020000360200003702000038020000390200003a0200003b0200003c0200003d0200003e0200003f020000400200004102000042020000430200004402000045020000460200004702000048020000490200004a0200004b0200004c0200004d0200004e0200004f020000500200005102000052020000530200005402000055020000560200005702000058020000590200005a0200005b0200005c0200005d0200005e0200005f020000600200006102000062020000630200006402000065020000660200006702000068020000690200006a0200006b0200006c0200006d0200006e0200006f020000700200007102000072020000730200007402000075020000760200007702000078020000790200007a0200007b0200007c0200007d0200007e0200007f02000080020000810200008202000083020000840200008502000086020000870200008802000089020000
+  assetHash:
+    serializedVersion: 2
+    Hash: 793e6072254bdbf4b8a2e091cf759d9f
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 0.08606182, y: 0.15146142, z: -0.11343011}
+      lookAt: {x: 0.45803055, y: -0.36224386, z: 0.42059898}
+      up: {x: 0.3541209, y: 0.7849347, z: 0.50840527}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: BE Key
+    100002: BE Key 1
+    100004: BE Key 10
+    100006: BE Key 11
+    100008: BE Key 12
+    100010: BE Key 13
+    100012: BE Key 14
+    100014: BE Key 2
+    100016: BE Key 3
+    100018: BE Key 4
+    100020: BE Key 5
+    100022: BE Key 6
+    100024: BE Key 7
+    100026: BE Key 8
+    100028: BE Key 9
+    100030: Black Key
+    100032: Black Key 1
+    100034: Black Key 10
+    100036: Black Key 11
+    100038: Black Key 12
+    100040: Black Key 13
+    100042: Black Key 14
+    100044: Black Key 15
+    100046: Black Key 16
+    100048: Black Key 17
+    100050: Black Key 18
+    100052: Black Key 19
+    100054: Black Key 2
+    100056: Black Key 20
+    100058: Black Key 21
+    100060: Black Key 22
+    100062: Black Key 23
+    100064: Black Key 24
+    100066: Black Key 25
+    100068: Black Key 26
+    100070: Black Key 27
+    100072: Black Key 28
+    100074: Black Key 29
+    100076: Black Key 3
+    100078: Black Key 30
+    100080: Black Key 31
+    100082: Black Key 32
+    100084: Black Key 33
+    100086: Black Key 34
+    100088: Black Key 35
+    100090: Black Key 36
+    100092: Black Key 37
+    100094: Black Key 38
+    100096: Black Key 39
+    100098: Black Key 4
+    100100: Black Key 40
+    100102: Black Key 41
+    100104: Black Key 42
+    100106: Black Key 43
+    100108: Black Key 44
+    100110: Black Key 45
+    100112: Black Key 46
+    100114: Black Key 47
+    100116: Black Key 48
+    100118: Black Key 49
+    100120: Black Key 5
+    100122: Black Key 50
+    100124: Black Key 51
+    100126: Black Key 52
+    100128: Black Key 53
+    100130: Black Key 54
+    100132: Black Key 55
+    100134: Black Key 56
+    100136: Black Key 57
+    100138: Black Key 58
+    100140: Black Key 59
+    100142: Black Key 6
+    100144: Black Key 60
+    100146: Black Key 61
+    100148: Black Key 62
+    100150: Black Key 63
+    100152: Black Key 64
+    100154: Black Key 65
+    100156: Black Key 66
+    100158: Black Key 67
+    100160: Black Key 68
+    100162: Black Key 69
+    100164: Black Key 7
+    100166: Black Key 70
+    100168: Black Key 71
+    100170: Black Key 8
+    100172: Black Key 9
+    100174: CF Key
+    100176: CF Key 1
+    100178: CF Key 10
+    100180: CF Key 11
+    100182: CF Key 12
+    100184: CF Key 13
+    100186: CF Key 2
+    100188: CF Key 3
+    100190: CF Key 4
+    100192: CF Key 5
+    100194: CF Key 6
+    100196: CF Key 7
+    100198: CF Key 8
+    100200: CF Key 9
+    100202: D Key
+    100204: D Key 1
+    100206: D Key 2
+    100208: D Key 3
+    100210: D Key 4
+    100212: D Key 5
+    100214: D Key 6
+    100216: Fat Key
+    100218: Fat Key 1
+    100220: Fat Key 10
+    100222: Fat Key 11
+    100224: Fat Key 12
+    100226: Fat Key 13
+    100228: Fat Key 14
+    100230: Fat Key 15
+    100232: Fat Key 16
+    100234: Fat Key 17
+    100236: Fat Key 18
+    100238: Fat Key 19
+    100240: Fat Key 2
+    100242: Fat Key 20
+    100244: Fat Key 21
+    100246: Fat Key 22
+    100248: Fat Key 23
+    100250: Fat Key 24
+    100252: Fat Key 25
+    100254: Fat Key 26
+    100256: Fat Key 27
+    100258: Fat Key 28
+    100260: Fat Key 29
+    100262: Fat Key 3
+    100264: Fat Key 30
+    100266: Fat Key 31
+    100268: Fat Key 32
+    100270: Fat Key 33
+    100272: Fat Key 34
+    100274: Fat Key 35
+    100276: Fat Key 36
+    100278: Fat Key 37
+    100280: Fat Key 38
+    100282: Fat Key 39
+    100284: Fat Key 4
+    100286: Fat Key 40
+    100288: Fat Key 41
+    100290: Fat Key 42
+    100292: Fat Key 43
+    100294: Fat Key 44
+    100296: Fat Key 45
+    100298: Fat Key 46
+    100300: Fat Key 47
+    100302: Fat Key 48
+    100304: Fat Key 49
+    100306: Fat Key 5
+    100308: Fat Key 50
+    100310: Fat Key 51
+    100312: Fat Key 52
+    100314: Fat Key 53
+    100316: Fat Key 54
+    100318: Fat Key 55
+    100320: Fat Key 56
+    100322: Fat Key 57
+    100324: Fat Key 58
+    100326: Fat Key 59
+    100328: Fat Key 6
+    100330: Fat Key 60
+    100332: Fat Key 61
+    100334: Fat Key 62
+    100336: Fat Key 63
+    100338: Fat Key 64
+    100340: Fat Key 65
+    100342: Fat Key 66
+    100344: Fat Key 67
+    100346: Fat Key 68
+    100348: Fat Key 69
+    100350: Fat Key 7
+    100352: Fat Key 70
+    100354: Fat Key 71
+    100356: Fat Key 72
+    100358: Fat Key 73
+    100360: Fat Key 74
+    100362: Fat Key 75
+    100364: Fat Key 76
+    100366: Fat Key 77
+    100368: Fat Key 78
+    100370: Fat Key 79
+    100372: Fat Key 8
+    100374: Fat Key 80
+    100376: Fat Key 81
+    100378: Fat Key 82
+    100380: Fat Key 83
+    100382: Fat Key 84
+    100384: Fat Key 85
+    100386: Fat Key 86
+    100388: Fat Key 87
+    100390: Fat Key 88
+    100392: Fat Key 89
+    100394: Fat Key 9
+    100396: Fat Key 90
+    100398: Fat Key 91
+    100400: Fat Key 92
+    100402: Fat Key 93
+    100404: Fat Key 94
+    100406: Fat Key 95
+    100408: Fat Key 96
+    100410: Fat Key 97
+    100412: Fat Key 98
+    100414: Fat Key 99
+    100416: Fat Key#1
+    100418: Fat Key#1 1
+    100420: Fat Key#1 2
+    100422: Fat Key#1 3
+    100424: Full Black Key
+    100426: Full Black Key 1
+    100428: Full Black Key 10
+    100430: Full Black Key 11
+    100432: Full Black Key 12
+    100434: Full Black Key 13
+    100436: Full Black Key 14
+    100438: Full Black Key 15
+    100440: Full Black Key 16
+    100442: Full Black Key 17
+    100444: Full Black Key 18
+    100446: Full Black Key 19
+    100448: Full Black Key 2
+    100450: Full Black Key 20
+    100452: Full Black Key 21
+    100454: Full Black Key 22
+    100456: Full Black Key 23
+    100458: Full Black Key 24
+    100460: Full Black Key 25
+    100462: Full Black Key 26
+    100464: Full Black Key 27
+    100466: Full Black Key 28
+    100468: Full Black Key 29
+    100470: Full Black Key 3
+    100472: Full Black Key 30
+    100474: Full Black Key 31
+    100476: Full Black Key 32
+    100478: Full Black Key 33
+    100480: Full Black Key 34
+    100482: Full Black Key 35
+    100484: Full Black Key 4
+    100486: Full Black Key 5
+    100488: Full Black Key 6
+    100490: Full Black Key 7
+    100492: Full Black Key 8
+    100494: Full Black Key 9
+    100496: GA Key
+    100498: GA Key 1
+    100500: GA Key 10
+    100502: GA Key 11
+    100504: GA Key 12
+    100506: GA Key 13
+    100508: GA Key 2
+    100510: GA Key 3
+    100512: GA Key 4
+    100514: GA Key 5
+    100516: GA Key 6
+    100518: GA Key 7
+    100520: GA Key 8
+    100522: GA Key 9
+    100524: Group 1
+    100526: Low A
+    100528: Low A#1
+    100530: //RootNode
+    100532: Skinny Key
+    100534: Skinny Key 1
+    100536: Skinny Key 10
+    100538: Skinny Key 11
+    100540: Skinny Key 12
+    100542: Skinny Key 13
+    100544: Skinny Key 14
+    100546: Skinny Key 15
+    100548: Skinny Key 16
+    100550: Skinny Key 17
+    100552: Skinny Key 18
+    100554: Skinny Key 19
+    100556: Skinny Key 2
+    100558: Skinny Key 20
+    100560: Skinny Key 21
+    100562: Skinny Key 22
+    100564: Skinny Key 23
+    100566: Skinny Key 24
+    100568: Skinny Key 25
+    100570: Skinny Key 26
+    100572: Skinny Key 27
+    100574: Skinny Key 28
+    100576: Skinny Key 29
+    100578: Skinny Key 3
+    100580: Skinny Key 30
+    100582: Skinny Key 31
+    100584: Skinny Key 32
+    100586: Skinny Key 33
+    100588: Skinny Key 34
+    100590: Skinny Key 35
+    100592: Skinny Key 36
+    100594: Skinny Key 37
+    100596: Skinny Key 38
+    100598: Skinny Key 39
+    100600: Skinny Key 4
+    100602: Skinny Key 40
+    100604: Skinny Key 41
+    100606: Skinny Key 42
+    100608: Skinny Key 43
+    100610: Skinny Key 44
+    100612: Skinny Key 45
+    100614: Skinny Key 46
+    100616: Skinny Key 47
+    100618: Skinny Key 48
+    100620: Skinny Key 49
+    100622: Skinny Key 5
+    100624: Skinny Key 50
+    100626: Skinny Key 51
+    100628: Skinny Key 52
+    100630: Skinny Key 53
+    100632: Skinny Key 54
+    100634: Skinny Key 55
+    100636: Skinny Key 56
+    100638: Skinny Key 57
+    100640: Skinny Key 58
+    100642: Skinny Key 59
+    100644: Skinny Key 6
+    100646: Skinny Key 60
+    100648: Skinny Key 61
+    100650: Skinny Key 62
+    100652: Skinny Key 63
+    100654: Skinny Key 64
+    100656: Skinny Key 65
+    100658: Skinny Key 66
+    100660: Skinny Key 67
+    100662: Skinny Key 68
+    100664: Skinny Key 69
+    100666: Skinny Key 7
+    100668: Skinny Key 70
+    100670: Skinny Key 71
+    100672: Skinny Key 72
+    100674: Skinny Key 73
+    100676: Skinny Key 74
+    100678: Skinny Key 75
+    100680: Skinny Key 76
+    100682: Skinny Key 77
+    100684: Skinny Key 78
+    100686: Skinny Key 79
+    100688: Skinny Key 8
+    100690: Skinny Key 80
+    100692: Skinny Key 81
+    100694: Skinny Key 82
+    100696: Skinny Key 83
+    100698: Skinny Key 84
+    100700: Skinny Key 85
+    100702: Skinny Key 86
+    100704: Skinny Key 87
+    100706: Skinny Key 88
+    100708: Skinny Key 89
+    100710: Skinny Key 9
+    100712: Skinny Key 90
+    100714: Skinny Key 91
+    100716: Skinny Key 92
+    100718: Skinny Key 93
+    100720: Skinny Key 94
+    100722: Skinny Key 95
+    100724: Skinny Key 96
+    100726: Skinny Key 97
+    100728: Skinny Key 98
+    100730: Skinny Key 99
+    100732: Skinny Key#1
+    100734: Skinny Key#1 1
+    100736: Skinny Key#1 2
+    100738: Skinny Key#2
+    400000: BE Key
+    400002: BE Key 1
+    400004: BE Key 10
+    400006: BE Key 11
+    400008: BE Key 12
+    400010: BE Key 13
+    400012: BE Key 14
+    400014: BE Key 2
+    400016: BE Key 3
+    400018: BE Key 4
+    400020: BE Key 5
+    400022: BE Key 6
+    400024: BE Key 7
+    400026: BE Key 8
+    400028: BE Key 9
+    400030: Black Key
+    400032: Black Key 1
+    400034: Black Key 10
+    400036: Black Key 11
+    400038: Black Key 12
+    400040: Black Key 13
+    400042: Black Key 14
+    400044: Black Key 15
+    400046: Black Key 16
+    400048: Black Key 17
+    400050: Black Key 18
+    400052: Black Key 19
+    400054: Black Key 2
+    400056: Black Key 20
+    400058: Black Key 21
+    400060: Black Key 22
+    400062: Black Key 23
+    400064: Black Key 24
+    400066: Black Key 25
+    400068: Black Key 26
+    400070: Black Key 27
+    400072: Black Key 28
+    400074: Black Key 29
+    400076: Black Key 3
+    400078: Black Key 30
+    400080: Black Key 31
+    400082: Black Key 32
+    400084: Black Key 33
+    400086: Black Key 34
+    400088: Black Key 35
+    400090: Black Key 36
+    400092: Black Key 37
+    400094: Black Key 38
+    400096: Black Key 39
+    400098: Black Key 4
+    400100: Black Key 40
+    400102: Black Key 41
+    400104: Black Key 42
+    400106: Black Key 43
+    400108: Black Key 44
+    400110: Black Key 45
+    400112: Black Key 46
+    400114: Black Key 47
+    400116: Black Key 48
+    400118: Black Key 49
+    400120: Black Key 5
+    400122: Black Key 50
+    400124: Black Key 51
+    400126: Black Key 52
+    400128: Black Key 53
+    400130: Black Key 54
+    400132: Black Key 55
+    400134: Black Key 56
+    400136: Black Key 57
+    400138: Black Key 58
+    400140: Black Key 59
+    400142: Black Key 6
+    400144: Black Key 60
+    400146: Black Key 61
+    400148: Black Key 62
+    400150: Black Key 63
+    400152: Black Key 64
+    400154: Black Key 65
+    400156: Black Key 66
+    400158: Black Key 67
+    400160: Black Key 68
+    400162: Black Key 69
+    400164: Black Key 7
+    400166: Black Key 70
+    400168: Black Key 71
+    400170: Black Key 8
+    400172: Black Key 9
+    400174: CF Key
+    400176: CF Key 1
+    400178: CF Key 10
+    400180: CF Key 11
+    400182: CF Key 12
+    400184: CF Key 13
+    400186: CF Key 2
+    400188: CF Key 3
+    400190: CF Key 4
+    400192: CF Key 5
+    400194: CF Key 6
+    400196: CF Key 7
+    400198: CF Key 8
+    400200: CF Key 9
+    400202: D Key
+    400204: D Key 1
+    400206: D Key 2
+    400208: D Key 3
+    400210: D Key 4
+    400212: D Key 5
+    400214: D Key 6
+    400216: Fat Key
+    400218: Fat Key 1
+    400220: Fat Key 10
+    400222: Fat Key 11
+    400224: Fat Key 12
+    400226: Fat Key 13
+    400228: Fat Key 14
+    400230: Fat Key 15
+    400232: Fat Key 16
+    400234: Fat Key 17
+    400236: Fat Key 18
+    400238: Fat Key 19
+    400240: Fat Key 2
+    400242: Fat Key 20
+    400244: Fat Key 21
+    400246: Fat Key 22
+    400248: Fat Key 23
+    400250: Fat Key 24
+    400252: Fat Key 25
+    400254: Fat Key 26
+    400256: Fat Key 27
+    400258: Fat Key 28
+    400260: Fat Key 29
+    400262: Fat Key 3
+    400264: Fat Key 30
+    400266: Fat Key 31
+    400268: Fat Key 32
+    400270: Fat Key 33
+    400272: Fat Key 34
+    400274: Fat Key 35
+    400276: Fat Key 36
+    400278: Fat Key 37
+    400280: Fat Key 38
+    400282: Fat Key 39
+    400284: Fat Key 4
+    400286: Fat Key 40
+    400288: Fat Key 41
+    400290: Fat Key 42
+    400292: Fat Key 43
+    400294: Fat Key 44
+    400296: Fat Key 45
+    400298: Fat Key 46
+    400300: Fat Key 47
+    400302: Fat Key 48
+    400304: Fat Key 49
+    400306: Fat Key 5
+    400308: Fat Key 50
+    400310: Fat Key 51
+    400312: Fat Key 52
+    400314: Fat Key 53
+    400316: Fat Key 54
+    400318: Fat Key 55
+    400320: Fat Key 56
+    400322: Fat Key 57
+    400324: Fat Key 58
+    400326: Fat Key 59
+    400328: Fat Key 6
+    400330: Fat Key 60
+    400332: Fat Key 61
+    400334: Fat Key 62
+    400336: Fat Key 63
+    400338: Fat Key 64
+    400340: Fat Key 65
+    400342: Fat Key 66
+    400344: Fat Key 67
+    400346: Fat Key 68
+    400348: Fat Key 69
+    400350: Fat Key 7
+    400352: Fat Key 70
+    400354: Fat Key 71
+    400356: Fat Key 72
+    400358: Fat Key 73
+    400360: Fat Key 74
+    400362: Fat Key 75
+    400364: Fat Key 76
+    400366: Fat Key 77
+    400368: Fat Key 78
+    400370: Fat Key 79
+    400372: Fat Key 8
+    400374: Fat Key 80
+    400376: Fat Key 81
+    400378: Fat Key 82
+    400380: Fat Key 83
+    400382: Fat Key 84
+    400384: Fat Key 85
+    400386: Fat Key 86
+    400388: Fat Key 87
+    400390: Fat Key 88
+    400392: Fat Key 89
+    400394: Fat Key 9
+    400396: Fat Key 90
+    400398: Fat Key 91
+    400400: Fat Key 92
+    400402: Fat Key 93
+    400404: Fat Key 94
+    400406: Fat Key 95
+    400408: Fat Key 96
+    400410: Fat Key 97
+    400412: Fat Key 98
+    400414: Fat Key 99
+    400416: Fat Key#1
+    400418: Fat Key#1 1
+    400420: Fat Key#1 2
+    400422: Fat Key#1 3
+    400424: Full Black Key
+    400426: Full Black Key 1
+    400428: Full Black Key 10
+    400430: Full Black Key 11
+    400432: Full Black Key 12
+    400434: Full Black Key 13
+    400436: Full Black Key 14
+    400438: Full Black Key 15
+    400440: Full Black Key 16
+    400442: Full Black Key 17
+    400444: Full Black Key 18
+    400446: Full Black Key 19
+    400448: Full Black Key 2
+    400450: Full Black Key 20
+    400452: Full Black Key 21
+    400454: Full Black Key 22
+    400456: Full Black Key 23
+    400458: Full Black Key 24
+    400460: Full Black Key 25
+    400462: Full Black Key 26
+    400464: Full Black Key 27
+    400466: Full Black Key 28
+    400468: Full Black Key 29
+    400470: Full Black Key 3
+    400472: Full Black Key 30
+    400474: Full Black Key 31
+    400476: Full Black Key 32
+    400478: Full Black Key 33
+    400480: Full Black Key 34
+    400482: Full Black Key 35
+    400484: Full Black Key 4
+    400486: Full Black Key 5
+    400488: Full Black Key 6
+    400490: Full Black Key 7
+    400492: Full Black Key 8
+    400494: Full Black Key 9
+    400496: GA Key
+    400498: GA Key 1
+    400500: GA Key 10
+    400502: GA Key 11
+    400504: GA Key 12
+    400506: GA Key 13
+    400508: GA Key 2
+    400510: GA Key 3
+    400512: GA Key 4
+    400514: GA Key 5
+    400516: GA Key 6
+    400518: GA Key 7
+    400520: GA Key 8
+    400522: GA Key 9
+    400524: Group 1
+    400526: Low A
+    400528: Low A#1
+    400530: //RootNode
+    400532: Skinny Key
+    400534: Skinny Key 1
+    400536: Skinny Key 10
+    400538: Skinny Key 11
+    400540: Skinny Key 12
+    400542: Skinny Key 13
+    400544: Skinny Key 14
+    400546: Skinny Key 15
+    400548: Skinny Key 16
+    400550: Skinny Key 17
+    400552: Skinny Key 18
+    400554: Skinny Key 19
+    400556: Skinny Key 2
+    400558: Skinny Key 20
+    400560: Skinny Key 21
+    400562: Skinny Key 22
+    400564: Skinny Key 23
+    400566: Skinny Key 24
+    400568: Skinny Key 25
+    400570: Skinny Key 26
+    400572: Skinny Key 27
+    400574: Skinny Key 28
+    400576: Skinny Key 29
+    400578: Skinny Key 3
+    400580: Skinny Key 30
+    400582: Skinny Key 31
+    400584: Skinny Key 32
+    400586: Skinny Key 33
+    400588: Skinny Key 34
+    400590: Skinny Key 35
+    400592: Skinny Key 36
+    400594: Skinny Key 37
+    400596: Skinny Key 38
+    400598: Skinny Key 39
+    400600: Skinny Key 4
+    400602: Skinny Key 40
+    400604: Skinny Key 41
+    400606: Skinny Key 42
+    400608: Skinny Key 43
+    400610: Skinny Key 44
+    400612: Skinny Key 45
+    400614: Skinny Key 46
+    400616: Skinny Key 47
+    400618: Skinny Key 48
+    400620: Skinny Key 49
+    400622: Skinny Key 5
+    400624: Skinny Key 50
+    400626: Skinny Key 51
+    400628: Skinny Key 52
+    400630: Skinny Key 53
+    400632: Skinny Key 54
+    400634: Skinny Key 55
+    400636: Skinny Key 56
+    400638: Skinny Key 57
+    400640: Skinny Key 58
+    400642: Skinny Key 59
+    400644: Skinny Key 6
+    400646: Skinny Key 60
+    400648: Skinny Key 61
+    400650: Skinny Key 62
+    400652: Skinny Key 63
+    400654: Skinny Key 64
+    400656: Skinny Key 65
+    400658: Skinny Key 66
+    400660: Skinny Key 67
+    400662: Skinny Key 68
+    400664: Skinny Key 69
+    400666: Skinny Key 7
+    400668: Skinny Key 70
+    400670: Skinny Key 71
+    400672: Skinny Key 72
+    400674: Skinny Key 73
+    400676: Skinny Key 74
+    400678: Skinny Key 75
+    400680: Skinny Key 76
+    400682: Skinny Key 77
+    400684: Skinny Key 78
+    400686: Skinny Key 79
+    400688: Skinny Key 8
+    400690: Skinny Key 80
+    400692: Skinny Key 81
+    400694: Skinny Key 82
+    400696: Skinny Key 83
+    400698: Skinny Key 84
+    400700: Skinny Key 85
+    400702: Skinny Key 86
+    400704: Skinny Key 87
+    400706: Skinny Key 88
+    400708: Skinny Key 89
+    400710: Skinny Key 9
+    400712: Skinny Key 90
+    400714: Skinny Key 91
+    400716: Skinny Key 92
+    400718: Skinny Key 93
+    400720: Skinny Key 94
+    400722: Skinny Key 95
+    400724: Skinny Key 96
+    400726: Skinny Key 97
+    400728: Skinny Key 98
+    400730: Skinny Key 99
+    400732: Skinny Key#1
+    400734: Skinny Key#1 1
+    400736: Skinny Key#1 2
+    400738: Skinny Key#2
+    2300000: Black Key
+    2300002: Black Key 1
+    2300004: Black Key 10
+    2300006: Black Key 11
+    2300008: Black Key 12
+    2300010: Black Key 13
+    2300012: Black Key 14
+    2300014: Black Key 15
+    2300016: Black Key 16
+    2300018: Black Key 17
+    2300020: Black Key 18
+    2300022: Black Key 19
+    2300024: Black Key 2
+    2300026: Black Key 20
+    2300028: Black Key 21
+    2300030: Black Key 22
+    2300032: Black Key 23
+    2300034: Black Key 24
+    2300036: Black Key 25
+    2300038: Black Key 26
+    2300040: Black Key 27
+    2300042: Black Key 28
+    2300044: Black Key 29
+    2300046: Black Key 3
+    2300048: Black Key 30
+    2300050: Black Key 31
+    2300052: Black Key 32
+    2300054: Black Key 33
+    2300056: Black Key 34
+    2300058: Black Key 35
+    2300060: Black Key 36
+    2300062: Black Key 37
+    2300064: Black Key 38
+    2300066: Black Key 39
+    2300068: Black Key 4
+    2300070: Black Key 40
+    2300072: Black Key 41
+    2300074: Black Key 42
+    2300076: Black Key 43
+    2300078: Black Key 44
+    2300080: Black Key 45
+    2300082: Black Key 46
+    2300084: Black Key 47
+    2300086: Black Key 48
+    2300088: Black Key 49
+    2300090: Black Key 5
+    2300092: Black Key 50
+    2300094: Black Key 51
+    2300096: Black Key 52
+    2300098: Black Key 53
+    2300100: Black Key 54
+    2300102: Black Key 55
+    2300104: Black Key 56
+    2300106: Black Key 57
+    2300108: Black Key 58
+    2300110: Black Key 59
+    2300112: Black Key 6
+    2300114: Black Key 60
+    2300116: Black Key 61
+    2300118: Black Key 62
+    2300120: Black Key 63
+    2300122: Black Key 64
+    2300124: Black Key 65
+    2300126: Black Key 66
+    2300128: Black Key 67
+    2300130: Black Key 68
+    2300132: Black Key 69
+    2300134: Black Key 7
+    2300136: Black Key 70
+    2300138: Black Key 71
+    2300140: Black Key 8
+    2300142: Black Key 9
+    2300144: Fat Key
+    2300146: Fat Key 1
+    2300148: Fat Key 10
+    2300150: Fat Key 11
+    2300152: Fat Key 12
+    2300154: Fat Key 13
+    2300156: Fat Key 14
+    2300158: Fat Key 15
+    2300160: Fat Key 16
+    2300162: Fat Key 17
+    2300164: Fat Key 18
+    2300166: Fat Key 19
+    2300168: Fat Key 2
+    2300170: Fat Key 20
+    2300172: Fat Key 21
+    2300174: Fat Key 22
+    2300176: Fat Key 23
+    2300178: Fat Key 24
+    2300180: Fat Key 25
+    2300182: Fat Key 26
+    2300184: Fat Key 27
+    2300186: Fat Key 28
+    2300188: Fat Key 29
+    2300190: Fat Key 3
+    2300192: Fat Key 30
+    2300194: Fat Key 31
+    2300196: Fat Key 32
+    2300198: Fat Key 33
+    2300200: Fat Key 34
+    2300202: Fat Key 35
+    2300204: Fat Key 36
+    2300206: Fat Key 37
+    2300208: Fat Key 38
+    2300210: Fat Key 39
+    2300212: Fat Key 4
+    2300214: Fat Key 40
+    2300216: Fat Key 41
+    2300218: Fat Key 42
+    2300220: Fat Key 43
+    2300222: Fat Key 44
+    2300224: Fat Key 45
+    2300226: Fat Key 46
+    2300228: Fat Key 47
+    2300230: Fat Key 48
+    2300232: Fat Key 49
+    2300234: Fat Key 5
+    2300236: Fat Key 50
+    2300238: Fat Key 51
+    2300240: Fat Key 52
+    2300242: Fat Key 53
+    2300244: Fat Key 54
+    2300246: Fat Key 55
+    2300248: Fat Key 56
+    2300250: Fat Key 57
+    2300252: Fat Key 58
+    2300254: Fat Key 59
+    2300256: Fat Key 6
+    2300258: Fat Key 60
+    2300260: Fat Key 61
+    2300262: Fat Key 62
+    2300264: Fat Key 63
+    2300266: Fat Key 64
+    2300268: Fat Key 65
+    2300270: Fat Key 66
+    2300272: Fat Key 67
+    2300274: Fat Key 68
+    2300276: Fat Key 69
+    2300278: Fat Key 7
+    2300280: Fat Key 70
+    2300282: Fat Key 71
+    2300284: Fat Key 72
+    2300286: Fat Key 73
+    2300288: Fat Key 74
+    2300290: Fat Key 75
+    2300292: Fat Key 76
+    2300294: Fat Key 77
+    2300296: Fat Key 78
+    2300298: Fat Key 79
+    2300300: Fat Key 8
+    2300302: Fat Key 80
+    2300304: Fat Key 81
+    2300306: Fat Key 82
+    2300308: Fat Key 83
+    2300310: Fat Key 84
+    2300312: Fat Key 85
+    2300314: Fat Key 86
+    2300316: Fat Key 87
+    2300318: Fat Key 88
+    2300320: Fat Key 89
+    2300322: Fat Key 9
+    2300324: Fat Key 90
+    2300326: Fat Key 91
+    2300328: Fat Key 92
+    2300330: Fat Key 93
+    2300332: Fat Key 94
+    2300334: Fat Key 95
+    2300336: Fat Key 96
+    2300338: Fat Key 97
+    2300340: Fat Key 98
+    2300342: Fat Key 99
+    2300344: Fat Key#1
+    2300346: Fat Key#1 1
+    2300348: Fat Key#1 2
+    2300350: Fat Key#1 3
+    2300352: Skinny Key
+    2300354: Skinny Key 1
+    2300356: Skinny Key 10
+    2300358: Skinny Key 11
+    2300360: Skinny Key 12
+    2300362: Skinny Key 13
+    2300364: Skinny Key 14
+    2300366: Skinny Key 15
+    2300368: Skinny Key 16
+    2300370: Skinny Key 17
+    2300372: Skinny Key 18
+    2300374: Skinny Key 19
+    2300376: Skinny Key 2
+    2300378: Skinny Key 20
+    2300380: Skinny Key 21
+    2300382: Skinny Key 22
+    2300384: Skinny Key 23
+    2300386: Skinny Key 24
+    2300388: Skinny Key 25
+    2300390: Skinny Key 26
+    2300392: Skinny Key 27
+    2300394: Skinny Key 28
+    2300396: Skinny Key 29
+    2300398: Skinny Key 3
+    2300400: Skinny Key 30
+    2300402: Skinny Key 31
+    2300404: Skinny Key 32
+    2300406: Skinny Key 33
+    2300408: Skinny Key 34
+    2300410: Skinny Key 35
+    2300412: Skinny Key 36
+    2300414: Skinny Key 37
+    2300416: Skinny Key 38
+    2300418: Skinny Key 39
+    2300420: Skinny Key 4
+    2300422: Skinny Key 40
+    2300424: Skinny Key 41
+    2300426: Skinny Key 42
+    2300428: Skinny Key 43
+    2300430: Skinny Key 44
+    2300432: Skinny Key 45
+    2300434: Skinny Key 46
+    2300436: Skinny Key 47
+    2300438: Skinny Key 48
+    2300440: Skinny Key 49
+    2300442: Skinny Key 5
+    2300444: Skinny Key 50
+    2300446: Skinny Key 51
+    2300448: Skinny Key 52
+    2300450: Skinny Key 53
+    2300452: Skinny Key 54
+    2300454: Skinny Key 55
+    2300456: Skinny Key 56
+    2300458: Skinny Key 57
+    2300460: Skinny Key 58
+    2300462: Skinny Key 59
+    2300464: Skinny Key 6
+    2300466: Skinny Key 60
+    2300468: Skinny Key 61
+    2300470: Skinny Key 62
+    2300472: Skinny Key 63
+    2300474: Skinny Key 64
+    2300476: Skinny Key 65
+    2300478: Skinny Key 66
+    2300480: Skinny Key 67
+    2300482: Skinny Key 68
+    2300484: Skinny Key 69
+    2300486: Skinny Key 7
+    2300488: Skinny Key 70
+    2300490: Skinny Key 71
+    2300492: Skinny Key 72
+    2300494: Skinny Key 73
+    2300496: Skinny Key 74
+    2300498: Skinny Key 75
+    2300500: Skinny Key 76
+    2300502: Skinny Key 77
+    2300504: Skinny Key 78
+    2300506: Skinny Key 79
+    2300508: Skinny Key 8
+    2300510: Skinny Key 80
+    2300512: Skinny Key 81
+    2300514: Skinny Key 82
+    2300516: Skinny Key 83
+    2300518: Skinny Key 84
+    2300520: Skinny Key 85
+    2300522: Skinny Key 86
+    2300524: Skinny Key 87
+    2300526: Skinny Key 88
+    2300528: Skinny Key 89
+    2300530: Skinny Key 9
+    2300532: Skinny Key 90
+    2300534: Skinny Key 91
+    2300536: Skinny Key 92
+    2300538: Skinny Key 93
+    2300540: Skinny Key 94
+    2300542: Skinny Key 95
+    2300544: Skinny Key 96
+    2300546: Skinny Key 97
+    2300548: Skinny Key 98
+    2300550: Skinny Key 99
+    2300552: Skinny Key#1
+    2300554: Skinny Key#1 1
+    2300556: Skinny Key#1 2
+    2300558: Skinny Key#2
+    3300000: Black Key
+    3300002: Black Key 1
+    3300004: Black Key 10
+    3300006: Black Key 11
+    3300008: Black Key 12
+    3300010: Black Key 13
+    3300012: Black Key 14
+    3300014: Black Key 15
+    3300016: Black Key 16
+    3300018: Black Key 17
+    3300020: Black Key 18
+    3300022: Black Key 19
+    3300024: Black Key 2
+    3300026: Black Key 20
+    3300028: Black Key 21
+    3300030: Black Key 22
+    3300032: Black Key 23
+    3300034: Black Key 24
+    3300036: Black Key 25
+    3300038: Black Key 26
+    3300040: Black Key 27
+    3300042: Black Key 28
+    3300044: Black Key 29
+    3300046: Black Key 3
+    3300048: Black Key 30
+    3300050: Black Key 31
+    3300052: Black Key 32
+    3300054: Black Key 33
+    3300056: Black Key 34
+    3300058: Black Key 35
+    3300060: Black Key 36
+    3300062: Black Key 37
+    3300064: Black Key 38
+    3300066: Black Key 39
+    3300068: Black Key 4
+    3300070: Black Key 40
+    3300072: Black Key 41
+    3300074: Black Key 42
+    3300076: Black Key 43
+    3300078: Black Key 44
+    3300080: Black Key 45
+    3300082: Black Key 46
+    3300084: Black Key 47
+    3300086: Black Key 48
+    3300088: Black Key 49
+    3300090: Black Key 5
+    3300092: Black Key 50
+    3300094: Black Key 51
+    3300096: Black Key 52
+    3300098: Black Key 53
+    3300100: Black Key 54
+    3300102: Black Key 55
+    3300104: Black Key 56
+    3300106: Black Key 57
+    3300108: Black Key 58
+    3300110: Black Key 59
+    3300112: Black Key 6
+    3300114: Black Key 60
+    3300116: Black Key 61
+    3300118: Black Key 62
+    3300120: Black Key 63
+    3300122: Black Key 64
+    3300124: Black Key 65
+    3300126: Black Key 66
+    3300128: Black Key 67
+    3300130: Black Key 68
+    3300132: Black Key 69
+    3300134: Black Key 7
+    3300136: Black Key 70
+    3300138: Black Key 71
+    3300140: Black Key 8
+    3300142: Black Key 9
+    3300144: Fat Key
+    3300146: Fat Key 1
+    3300148: Fat Key 10
+    3300150: Fat Key 11
+    3300152: Fat Key 12
+    3300154: Fat Key 13
+    3300156: Fat Key 14
+    3300158: Fat Key 15
+    3300160: Fat Key 16
+    3300162: Fat Key 17
+    3300164: Fat Key 18
+    3300166: Fat Key 19
+    3300168: Fat Key 2
+    3300170: Fat Key 20
+    3300172: Fat Key 21
+    3300174: Fat Key 22
+    3300176: Fat Key 23
+    3300178: Fat Key 24
+    3300180: Fat Key 25
+    3300182: Fat Key 26
+    3300184: Fat Key 27
+    3300186: Fat Key 28
+    3300188: Fat Key 29
+    3300190: Fat Key 3
+    3300192: Fat Key 30
+    3300194: Fat Key 31
+    3300196: Fat Key 32
+    3300198: Fat Key 33
+    3300200: Fat Key 34
+    3300202: Fat Key 35
+    3300204: Fat Key 36
+    3300206: Fat Key 37
+    3300208: Fat Key 38
+    3300210: Fat Key 39
+    3300212: Fat Key 4
+    3300214: Fat Key 40
+    3300216: Fat Key 41
+    3300218: Fat Key 42
+    3300220: Fat Key 43
+    3300222: Fat Key 44
+    3300224: Fat Key 45
+    3300226: Fat Key 46
+    3300228: Fat Key 47
+    3300230: Fat Key 48
+    3300232: Fat Key 49
+    3300234: Fat Key 5
+    3300236: Fat Key 50
+    3300238: Fat Key 51
+    3300240: Fat Key 52
+    3300242: Fat Key 53
+    3300244: Fat Key 54
+    3300246: Fat Key 55
+    3300248: Fat Key 56
+    3300250: Fat Key 57
+    3300252: Fat Key 58
+    3300254: Fat Key 59
+    3300256: Fat Key 6
+    3300258: Fat Key 60
+    3300260: Fat Key 61
+    3300262: Fat Key 62
+    3300264: Fat Key 63
+    3300266: Fat Key 64
+    3300268: Fat Key 65
+    3300270: Fat Key 66
+    3300272: Fat Key 67
+    3300274: Fat Key 68
+    3300276: Fat Key 69
+    3300278: Fat Key 7
+    3300280: Fat Key 70
+    3300282: Fat Key 71
+    3300284: Fat Key 72
+    3300286: Fat Key 73
+    3300288: Fat Key 74
+    3300290: Fat Key 75
+    3300292: Fat Key 76
+    3300294: Fat Key 77
+    3300296: Fat Key 78
+    3300298: Fat Key 79
+    3300300: Fat Key 8
+    3300302: Fat Key 80
+    3300304: Fat Key 81
+    3300306: Fat Key 82
+    3300308: Fat Key 83
+    3300310: Fat Key 84
+    3300312: Fat Key 85
+    3300314: Fat Key 86
+    3300316: Fat Key 87
+    3300318: Fat Key 88
+    3300320: Fat Key 89
+    3300322: Fat Key 9
+    3300324: Fat Key 90
+    3300326: Fat Key 91
+    3300328: Fat Key 92
+    3300330: Fat Key 93
+    3300332: Fat Key 94
+    3300334: Fat Key 95
+    3300336: Fat Key 96
+    3300338: Fat Key 97
+    3300340: Fat Key 98
+    3300342: Fat Key 99
+    3300344: Fat Key#1
+    3300346: Fat Key#1 1
+    3300348: Fat Key#1 2
+    3300350: Fat Key#1 3
+    3300352: Skinny Key
+    3300354: Skinny Key 1
+    3300356: Skinny Key 10
+    3300358: Skinny Key 11
+    3300360: Skinny Key 12
+    3300362: Skinny Key 13
+    3300364: Skinny Key 14
+    3300366: Skinny Key 15
+    3300368: Skinny Key 16
+    3300370: Skinny Key 17
+    3300372: Skinny Key 18
+    3300374: Skinny Key 19
+    3300376: Skinny Key 2
+    3300378: Skinny Key 20
+    3300380: Skinny Key 21
+    3300382: Skinny Key 22
+    3300384: Skinny Key 23
+    3300386: Skinny Key 24
+    3300388: Skinny Key 25
+    3300390: Skinny Key 26
+    3300392: Skinny Key 27
+    3300394: Skinny Key 28
+    3300396: Skinny Key 29
+    3300398: Skinny Key 3
+    3300400: Skinny Key 30
+    3300402: Skinny Key 31
+    3300404: Skinny Key 32
+    3300406: Skinny Key 33
+    3300408: Skinny Key 34
+    3300410: Skinny Key 35
+    3300412: Skinny Key 36
+    3300414: Skinny Key 37
+    3300416: Skinny Key 38
+    3300418: Skinny Key 39
+    3300420: Skinny Key 4
+    3300422: Skinny Key 40
+    3300424: Skinny Key 41
+    3300426: Skinny Key 42
+    3300428: Skinny Key 43
+    3300430: Skinny Key 44
+    3300432: Skinny Key 45
+    3300434: Skinny Key 46
+    3300436: Skinny Key 47
+    3300438: Skinny Key 48
+    3300440: Skinny Key 49
+    3300442: Skinny Key 5
+    3300444: Skinny Key 50
+    3300446: Skinny Key 51
+    3300448: Skinny Key 52
+    3300450: Skinny Key 53
+    3300452: Skinny Key 54
+    3300454: Skinny Key 55
+    3300456: Skinny Key 56
+    3300458: Skinny Key 57
+    3300460: Skinny Key 58
+    3300462: Skinny Key 59
+    3300464: Skinny Key 6
+    3300466: Skinny Key 60
+    3300468: Skinny Key 61
+    3300470: Skinny Key 62
+    3300472: Skinny Key 63
+    3300474: Skinny Key 64
+    3300476: Skinny Key 65
+    3300478: Skinny Key 66
+    3300480: Skinny Key 67
+    3300482: Skinny Key 68
+    3300484: Skinny Key 69
+    3300486: Skinny Key 7
+    3300488: Skinny Key 70
+    3300490: Skinny Key 71
+    3300492: Skinny Key 72
+    3300494: Skinny Key 73
+    3300496: Skinny Key 74
+    3300498: Skinny Key 75
+    3300500: Skinny Key 76
+    3300502: Skinny Key 77
+    3300504: Skinny Key 78
+    3300506: Skinny Key 79
+    3300508: Skinny Key 8
+    3300510: Skinny Key 80
+    3300512: Skinny Key 81
+    3300514: Skinny Key 82
+    3300516: Skinny Key 83
+    3300518: Skinny Key 84
+    3300520: Skinny Key 85
+    3300522: Skinny Key 86
+    3300524: Skinny Key 87
+    3300526: Skinny Key 88
+    3300528: Skinny Key 89
+    3300530: Skinny Key 9
+    3300532: Skinny Key 90
+    3300534: Skinny Key 91
+    3300536: Skinny Key 92
+    3300538: Skinny Key 93
+    3300540: Skinny Key 94
+    3300542: Skinny Key 95
+    3300544: Skinny Key 96
+    3300546: Skinny Key 97
+    3300548: Skinny Key 98
+    3300550: Skinny Key 99
+    3300552: Skinny Key#1
+    3300554: Skinny Key#1 1
+    3300556: Skinny Key#1 2
+    3300558: Skinny Key#2
+    4300000: Mesh Black Key
+    4300002: Mesh Skinny Key
+    4300004: Mesh Fat Key
+    4300006: Mesh Skinny Key#2
+    4300008: Mesh Skinny Key#1
+    4300010: Mesh Fat Key#1
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
